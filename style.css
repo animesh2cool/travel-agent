@@ -1,0 +1,22 @@
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .tagline {
+    font-size: 1rem;
+    margin-top: 0.2rem;
+    color: #e0e7ff;
+    text-align: center;
+  }
+  
+  .intro {
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 1rem 0 2rem;
+    color: #374151;
+  }
+  
